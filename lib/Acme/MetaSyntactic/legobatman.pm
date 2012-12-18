@@ -14,7 +14,7 @@ q[You-Know-Who];
 
 =head1 DESCRIPTION
 
-Characters from the LEGO Batman and LEGO Batman2 as gleaned from
+Characters from the LEGO Batman and LEGO Batman2 games as gleaned from
 the L<http://www.gamefaqs.com/> walkthroughs.
 
 I<Kerpow!!>
